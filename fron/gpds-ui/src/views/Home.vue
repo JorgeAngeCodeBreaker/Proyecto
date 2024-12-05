@@ -1,7 +1,7 @@
 <!-- src/views/Home.vue -->
 <template>
     <div>
-      <h1>Home</h1>
+      <h1>Home ya hice cambios en el vue</h1>
       <p>Bienvenido a la página de inicio.</p>
     </div>
   </template>
